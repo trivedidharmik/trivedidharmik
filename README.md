@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dharmik Trivedi</h1>
 <h3 align="center">A passionate Fullstack Software Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trivedidharmik&label=Profile%20views&color=0e75b6&style=flat" alt="trivedidharmik" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trivedidharmik" alt="trivedidharmik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dharmikkkkkk" target="blank"><img src="https://img.shields.io/twitter/follow/dharmikkkkkk?logo=twitter&style=for-the-badge" alt="dharmikkkkkk" /></a> </p>
